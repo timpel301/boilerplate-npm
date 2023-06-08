@@ -3,6 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"keywords": ["freecodecamp", "npm", "node.js", "api"],
 	"author": "Tim Pelzer",
 	"description": "A project to learn the basics of backend API development in JS",
 	"main": "server.js",
