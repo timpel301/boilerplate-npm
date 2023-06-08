@@ -4,6 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"author": "Tim Pelzer",
+	"description": "A project to learn the basics of backend API development in JS",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
