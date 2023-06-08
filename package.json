@@ -6,6 +6,7 @@
 	"keywords": ["freecodecamp", "npm", "node.js", "api"],
 	"license": "freecodecamp MIT",
 	"author": "Tim Pelzer",
+	"version": "1.0.0",
 	"description": "A project to learn the basics of backend API development in JS",
 	"main": "server.js",
 	"scripts": {
